@@ -1,4 +1,4 @@
-function MOT_SIMULTANIOUS(subject_name)
+function MOT_SIMULTANEOUS(subject_name)
     KbName('UnifyKeyNames');
     
     st = dbstack(1);
